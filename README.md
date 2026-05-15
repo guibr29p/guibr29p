@@ -62,13 +62,8 @@ Sou desenvolvedor em formação, apaixonado por construir soluções reais com c
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-guibr29p-181717?style=flat-square&logo=github)](https://github.com/guibr29p)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-marques-8049b82b6/)
+[![Gmail](https://img.shields.io/badge/Gmail-seuemail@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:gcsmarquesmarques@gmail.com)
 
 </div>
 
----
-
-<div align="center">
-
-*"Código é poesia — cada linha conta uma história."*
-
-</div>
