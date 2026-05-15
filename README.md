@@ -13,7 +13,7 @@
 Sou desenvolvedor em formação, apaixonado por construir soluções reais com código. Atualmente no 3º semestre de Ciências da Computação na **Uni9**, explorando back-end, APIs e automações.
 
 - 🔭 Trabalhando em projetos acadêmicos e pessoais
-- 🌱 Aprendendo sobre desenvolvimento web e APIs REST
+- 🌱 Aprendendo sobre desenvolvimento web, APIs REST, Cybersegurça e LLM
 - ⚡ Gosto de automatizar coisas com Python
 - 📍 São Paulo, SP — Brasil
 
@@ -42,20 +42,6 @@ Sou desenvolvedor em formação, apaixonado por construir soluções reais com c
 | [🧪 Gerador de Simulado](https://github.com/guibr29p/gerador_de_simulado) | Gerador automático de simulados para estudo | Python |
 | [🌐 Portfólio Web](https://github.com/guibr29p/portfolioWeb) | Meu portfólio pessoal desenvolvido na web | TypeScript |
 | [⚙️ API Java Web](https://github.com/guibr29p/Projeto_java_web_api) | API REST desenvolvida para disciplina na Uni9 | JavaScript / Java |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guibr29p&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guibr29p&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
-
----
 
 ## 📬 Contato
 
